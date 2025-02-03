@@ -6,6 +6,11 @@
 * [x] Test
 
 How to launch the app:
-   `git clone https://github.com/supertren/deepseek01.git;
-    cd deepseek01;
-    node --env-file=.env server.mjs` 
+
+```node
+    git clone https://github.com/supertren/deepseek01.git
+    cd deepseek01
+    npm init -y
+    npm install openai dotenv express
+    node --env-file=.env server.mjs
+```
