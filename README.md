@@ -6,6 +6,6 @@
 * [x] Test
 
 How to launch the app:
-    `git clone https://github.com/supertren/deepseek01.git`
-    `cd deepseek01`
-    `node --env-file=.env server.mjs` 
+   `git clone https://github.com/supertren/deepseek01.git
+    cd deepseek01
+    node --env-file=.env server.mjs` 
