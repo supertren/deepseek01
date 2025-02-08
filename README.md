@@ -13,7 +13,8 @@ How to launch the app:
     npm init -y
     npm install openai dotenv express
     node --env-file=.env server.mjs
-
+```
+```
 Test with cURL:
 
 # Search request
